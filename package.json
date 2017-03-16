@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/belsyuen/hkdapp_tx_decode/issues"
   },
-  "homepage": "https://github.com/belsyuen/hkdapp_tx_decode#readme"
+  "homepage": "https://github.com/belsyuen/hkdapp_tx_decode#readme",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.4"
+  }
 }
