@@ -1,0 +1,23 @@
+{
+  "name": "hkdapp_tx_decode",
+  "version": "0.1.0",
+  "description": "Decoding of transaction data from blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belsyuen/hkdapp_tx_decode.git"
+  },
+  "keywords": [
+    "ethereum",
+    "decode"
+  ],
+  "author": "Belsy Yuen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belsyuen/hkdapp_tx_decode/issues"
+  },
+  "homepage": "https://github.com/belsyuen/hkdapp_tx_decode#readme"
+}
