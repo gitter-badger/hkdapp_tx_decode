@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/belsyuen/hkdapp_tx_decode#readme",
   "dependencies": {
+    "ethereum-input-data-decoder": "0.0.2",
     "ethereumjs-abi": "^0.6.4"
   }
 }
